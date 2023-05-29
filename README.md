@@ -9,7 +9,7 @@
 ## Course Outline:
 
 ### 1. Introduction to Statistics and Data Analysis
-- [ ] Importance of statistics in data analysis
+- [x] Importance of statistics in data analysis
 - [ ] Types of data
   - [ ] Quantitative
   - [ ] Qualitative
